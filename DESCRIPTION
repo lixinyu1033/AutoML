@@ -1,10 +1,18 @@
 Package: AutoML
-Title: What the Package Does (One Line, Title Case)
+Title: Auto Machine Learning Script
 Version: 0.1.0
-Authors@R: 
-    person("Lixinyu")
-Description: AutoML.
-License: only use for learning
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
+Author: Xinyu Li <lixinyu1033@gmail.com>
+Maintainer: Xinyu Li <lixinyu1033@gmail.com>
+Description: A package for Auto Machine Learning.
+Description: AutoML.
+License: MIT
+Imports:
+  dplyr,
+  ggplot2
+Authors@R: person(given = "Xinyu", family = "Li", email = "lixinyu1033@gmail.com", role = c("aut", "cre"))
+Imports:
+  dplyr,
+  ggplot2
