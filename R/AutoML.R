@@ -5,8 +5,8 @@
 # group: a file containing grouping information.
 auto_ml_analysis <- function(hub_data, group, output_dir) {
   
-  hub_data=hub_data_Insomnia
-  group
+  #hub_data=hub_data_Insomnia
+  #group
   
   ###检查是否所有的包都正确安装
   
@@ -349,5 +349,3 @@ auto_ml_analysis <- function(hub_data, group, output_dir) {
   return(all_genes)
   
 }
-
-
